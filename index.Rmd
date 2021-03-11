@@ -1,0 +1,26 @@
+--- 
+title: "A chapéuzinho vermelho?"
+author: "Raphael"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Esse é um exemplo mínimo do Bookdown para aula de Estatística"
+---
+
+# Prerequisites
+
+
+O **bookdown** precisa ser instalado pelo GitHub ou através do RStudio:
+
+```{r eval=FALSE}
+install.packages("bookdown")
+# ou versão de desenvolvedor
+# devtools::install_github("rstudio/bookdown")
+```
+
+Lembre-se que cada Rmd contém um e somente um capítulo. Um capítulo é definido pelo primeiro título.
+
+
