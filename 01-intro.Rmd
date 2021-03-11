@@ -8,3 +8,4 @@ Você agora tem duas escolhas.
 <li><a href="http://127.0.0.1:40858/rmd_output/1/literature.html" target="blank">Fugirá para o Bosque!</a></li>
 <li><a href="http://127.0.0.1:40858/rmd_output/1/section.html" target="blank">Ficará na Cidade!</a></li>
 
+Escolha uma das opções acima para prosseguir com a história!
