@@ -1,6 +1,6 @@
 --- 
 title: "A chapéuzinho vermelho?"
-author: "Raphael"
+author: "Pedro Raphael, Bruna Carvalho, João Marques"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
